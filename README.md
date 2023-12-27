@@ -1,8 +1,8 @@
-## Live At
+## Deployed Application Is Live At
 
 https://rayyan-survey-form.netlify.app/
 
-## How To Run It Locally On Your System
+## How To Run The Application Locally On Your System
 
 1 - Clone this repo or download the zip file.
 2 - Extract all files.
